@@ -1,6 +1,6 @@
 package org.example;
-
+import java.util.List;
 public class response {
 
-    Docs docs[] = new Docs[]{new Docs()};
+    static List<Article> docs;
 }
